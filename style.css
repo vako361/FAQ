@@ -28,6 +28,7 @@ body{
     box-sizing: border-box;
     background: linear-gradient(180deg, #B068E9 0%, #6463E7 100%);
     background-repeat: no-repeat;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -119,7 +120,7 @@ h1{
 @media(min-width:1000px){
     main{
         flex-direction: row;
-        width: 920px;
+        width: 65.9rem;
         height:38rem;
         margin-top: 3rem;
         margin-bottom: 3rem;
